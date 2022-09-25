@@ -15,8 +15,6 @@ psrc/main/java/design_principles/open_close_principle/notification_service/servi
 fsrc/test/java/design_principles/open_close_principle/notification_service/NotificationManagerTest.java,a/1/a160780528fc0348fdefe879cf1467564b92186e
 ï
 esrc/main/java/design_principles/open_close_principle/notification_service/enums/NotificationType.java,0/d/0d43cabd8dd5f15a6c578fdf7bfd13b806082eda
-í
-bsrc/main/java/design_principles/open_close_principle/notification_service/NotificationManager.java,f/9/f922be5800fe8d64365657e2accf7df334f58414
 à
 Xsrc/main/java/design_principles/open_close_principle/pub_sub/interfaces/ISubscriber.java,8/a/8a3cd135b16bb3a01bd17bfb867b8a233bab0f31
 ê
@@ -29,3 +27,17 @@ Msrc/main/java/design_principles/open_close_principle/pub_sub/model/Event.java,
 Osrc/test/java/design_principles/open_close_principle/pub_sub/PublisherTest.java,e/e/ee9443682aa1c73c43c24fe051caa135ab95995d
 {
 Ksrc/main/java/design_principles/open_close_principle/pub_sub/Publisher.java,7/e/7e1e9be38735757ebac19c71f8d286b16f02b9ec
+5
+Notes,7/0/70440046a3dc2e079f23ee1c57dfa76669b732aa
+
+Osrc/test/java/design_pattern/builder_pattern/CarWithBuilderUsingLombokTest.java,f/1/f1011b4d53ea4291dbcceb8d23e35e91c173b0a4
+u
+Esrc/main/java/design_pattern/builder_pattern/car_components/Seat.java,5/e/5e6574f9821d011d9a3b3ccb52d7fbd9b6a372a6
+w
+Gsrc/main/java/design_pattern/builder_pattern/car_components/Engine.java,4/4/44a96fa993efb81e37fd2019fe67219bbee340de
+u
+Esrc/main/java/design_pattern/builder_pattern/car_components/Tyre.java,1/d/1d808a57cc2c700414611467bd78558576dae65d
+|
+Lsrc/main/java/design_pattern/builder_pattern/car_components/MusicSystem.java,3/9/39708ab5b76e5ff04a37ee57c869cda634c7dcc3
+x
+Hsrc/main/java/design_pattern/builder_pattern/car_components/SunRoof.java,b/8/b82a124792258fccb1fc4ba0af2ebcf60e4a8337

@@ -223,6 +223,81 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/memonto_pattern/Editor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/memonto_pattern/model/Editor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/memonto_pattern/model/History.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/memonto_pattern/model/HistoryManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/memonto_pattern/model/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/memonto_pattern/model/State.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/state_pattern/Order.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/state_pattern/OrderState.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/state_pattern/states.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/state_pattern/states/InitialState.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/state_pattern/states/OrderCancelled.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/state_pattern/states/OrderDelivered.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/state_pattern/states/OrderState.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/state_pattern/states/PaymentDone.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/state_pattern/states/RefundDone.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/design_principles/open_close_principle/notification_service/NotificationManager.java">
           <value>
             <set />
@@ -379,6 +454,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/test/java/design_pattern/command_pattern/commands/SumCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/design_pattern/memonto_pattern/model/EditorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/design_pattern/state_pattern/OrderTest.java">
           <value>
             <set />
           </value>
