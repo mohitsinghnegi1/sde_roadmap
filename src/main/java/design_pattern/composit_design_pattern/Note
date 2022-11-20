@@ -1,0 +1,6 @@
+Same function is shared among all objects (composite and leaf)
+
+for example cost of system = cost of internal systems
+and cost of internal systems = cost of its internal systems
+
+it is forming tree like structure with one or more common functions

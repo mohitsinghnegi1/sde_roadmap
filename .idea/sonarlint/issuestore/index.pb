@@ -29,8 +29,6 @@ Osrc/test/java/design_principles/open_close_principle/pub_sub/PublisherTest.java
 Ksrc/main/java/design_principles/open_close_principle/pub_sub/Publisher.java,7/e/7e1e9be38735757ebac19c71f8d286b16f02b9ec
 5
 Notes,7/0/70440046a3dc2e079f23ee1c57dfa76669b732aa
-
-Osrc/test/java/design_pattern/builder_pattern/CarWithBuilderUsingLombokTest.java,f/1/f1011b4d53ea4291dbcceb8d23e35e91c173b0a4
 u
 Esrc/main/java/design_pattern/builder_pattern/car_components/Seat.java,5/e/5e6574f9821d011d9a3b3ccb52d7fbd9b6a372a6
 w
@@ -41,3 +39,9 @@ Esrc/main/java/design_pattern/builder_pattern/car_components/Tyre.java,1/d/1d80
 Lsrc/main/java/design_pattern/builder_pattern/car_components/MusicSystem.java,3/9/39708ab5b76e5ff04a37ee57c869cda634c7dcc3
 x
 Hsrc/main/java/design_pattern/builder_pattern/car_components/SunRoof.java,b/8/b82a124792258fccb1fc4ba0af2ebcf60e4a8337
+}
+Msrc/main/java/design_pattern/command_pattern/commands/SumCommandExecuter.java,8/8/88cd9dc9240090f37ab6069b9fa45fbccc988421
+’
+bsrc/main/java/design_principles/open_close_principle/notification_service/NotificationManager.java,f/9/f922be5800fe8d64365657e2accf7df334f58414
+r
+Bsrc/test/java/design_pattern/memonto_pattern/model/EditorTest.java,0/f/0f98a3c6a2a33e2248c4b6a101a7c819960e9c98

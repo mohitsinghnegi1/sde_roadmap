@@ -1,0 +1,22 @@
+Other the covered design patterns there are more design pattern such as
+
+
+
+Stretegy design pattern : example sorting using buuble merge or quick sort based on some info (decision on runtime)
+
+Singleton design pattern
+
+Chain of responsibility
+
+template design pattern
+
+Null design pattern
+
+Decorator design pattern
+
+Iterator design pattern
+
+Facade design pattern
+
+Proxy design pattern : just a proxy of filtering the request and deligating the task to real service example payment service
+or Managers or mock server

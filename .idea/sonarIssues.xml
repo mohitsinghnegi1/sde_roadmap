@@ -98,6 +98,46 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/Notes">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/adapter_pattern/AndroidCharger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/adapter_pattern/ITypeCCharger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/adapter_pattern/Iphone.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/adapter_pattern/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/adapter_pattern/PhoneTypeC.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/adapter_pattern/TypeBCharger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/adapter_pattern/TypeCChargerAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/design_pattern/builder_pattern/CarWithBuilder.java">
           <value>
             <set />
@@ -223,6 +263,61 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/composit_design_pattern/Composite.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/composit_design_pattern/IComponent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/composit_design_pattern/Leaf.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/composit_design_pattern/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/composit_design_pattern/Note">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/factory_design_pattern/AndroidOs.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/factory_design_pattern/IOS.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/factory_design_pattern/IOs.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/factory_design_pattern/OSType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/factory_design_pattern/Os.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/factory_design_pattern/OsFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/design_pattern/memonto_pattern/Editor.java">
           <value>
             <set />
@@ -249,6 +344,41 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/design_pattern/memonto_pattern/model/State.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/observer_pattern/Observer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/observer_pattern/Publisher.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/observer_pattern/Subscriber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/prototype_design_pattern/BookShop.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/prototype_design_pattern/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/prototype_design_pattern/Note">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design_pattern/prototype_design_pattern/Observer.java">
           <value>
             <set />
           </value>
@@ -454,6 +584,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/test/java/design_pattern/command_pattern/commands/SumCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/design_pattern/factory_design_pattern/OsFactoryTest.java">
           <value>
             <set />
           </value>
