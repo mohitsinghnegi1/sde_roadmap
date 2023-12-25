@@ -15,6 +15,7 @@ public class Editor {
         if(state.equals(curState)) return;
         this.state = curState;
         this.historyManager.saveContent(state);
+        // comment
 
     }
 
